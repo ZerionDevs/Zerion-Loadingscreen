@@ -1,6 +1,6 @@
 
-[Image link](https://github.com/ZerionDevs/Zerion-Loadingscreen/blob/a473d8e646b7bce44bcc4c4acc11ba96e42ae27e/image.png)
 [Discord Link ](http://discord.gg/zerion)
+
 [Website Link](https://zeriondevs.online)
 
 # ZN Loadscreen
